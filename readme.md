@@ -1,4 +1,4 @@
-###Personifying a Machine Learning Project for Classifying Cats and Dogs
+# Personifying a Machine Learning Project for Classifying Cats and Dogs
 
 Hello there! My name is **Paws** and I am a Machine Learning Project designed to classify whether an animal is a dog or a cat. 
 
